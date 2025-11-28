@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #a1b1f1;
+  --color-secondary: #4F6CE2;
+  --color-constant: #000;
+  --color-lightElBg: #eeeeee;
+}
+* {
+  font-family: "Funnel Display", sans-serif;
+}
+
+/* Odometer animation duration fix */
+.odometer .odometer-ribbon,
+.odometer .odometer-ribbon-inner {
+  transition-duration: 4s !important; /* এখানে তোমার প্রয়োজনীয় duration */
+}
