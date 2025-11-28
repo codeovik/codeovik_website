@@ -3,7 +3,7 @@
 codeovik is our official(root company) for our project. It was image parallax effect, responsive, gsap text spilt hover animation, react router, personal certification and portfolio. also it is connected to backend Google app script. and deployed on google firebase.
 
 ## Screenshorts
-![codeovik website screenshort](/readme/screenshort.png "This is a screenshort of this project")
+![codeovik website screenshort](/readme_assets/screenshort.png "This is a screenshort of this project")
 
 ## Links
 * Website link: [Click here](https://codeovik.web.app/)
